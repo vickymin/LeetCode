@@ -9,4 +9,7 @@
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [Best Time to Buy and Sell Stock II My Submissions Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
