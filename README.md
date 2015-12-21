@@ -13,3 +13,4 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Majority Element](https://leetcode.com/problems/majority-element/)
