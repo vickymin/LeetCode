@@ -12,15 +12,17 @@
  */
 //recursive
 var preorderTraversal = function(root) {
-    var arr = [];
-    var pre = function(node){
-        if(node !== null){
-          arr.push(node.val);
-          arr.concat(pre(node.left));
-          arr.concat(pre(node.right));
-        }
-    };
-    pre(root);
-    return arr;
-};
+   var arr = [];
+   _h(root, arr);
+   return arr;
+}
+var _h = function(root, arr) {
+   if (root == null) {
+       return;
+   }
+   arr.push(root.val);
+   _h(root.left, arr);
+   _h(root.right, arr);
+   return;
+}
 //iterative

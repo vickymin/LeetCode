@@ -15,3 +15,4 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
