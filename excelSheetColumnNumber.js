@@ -1,4 +1,4 @@
-//Given a column title as appear in an Excel sheet, return its corresponding column number.
+//Given a column title as appear in an Excel sheet, return its corresponding column number
 /**
  * @param {string} s
  * @return {number}

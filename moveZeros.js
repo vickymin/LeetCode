@@ -1,8 +1,7 @@
 /**
  * @param {number[]} nums
- * @return {void} Do not return anything, modify nums in-place instead.
+ * @return {void} Do not return anything, modify nums in-place instead
  */
-
 var moveZeroes = function(nums) {
     var len = nums.length
     for(var i = 0; i < len; i++){

@@ -1,6 +1,6 @@
-//Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
+//Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree node
  * function TreeNode(val) {
  *     this.val = val;
  *     this.left = this.right = null;
