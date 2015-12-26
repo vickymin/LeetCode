@@ -21,3 +21,4 @@
 17. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 18. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 19. [Number of 1 Bits](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+20. [Missing Number](https://leetcode.com/problems/missing-number/)
